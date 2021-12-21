@@ -1,9 +1,25 @@
 <div align="center">
     <h1>Crypto-Verse</h1>
-    <p>Crypto-Verse provides all the information and news about cryptocurrencies and the crypto market.</p>
+    <p>Crypto-Verse provides all the information and news about cryptocurrency and the crypto-market.</p>
 </div>
 
-![demo](./public/cryptoverse1.png)
+Demo:
+
+![01](https://user-images.githubusercontent.com/78599887/146933818-3a9cc97b-38dd-4c5e-a04a-75639341d09e.jpg)
+
+
+![02](https://user-images.githubusercontent.com/78599887/146933803-4a78e334-c7f2-4437-82cf-5d44f20caa10.jpg)
+
+
+![03](https://user-images.githubusercontent.com/78599887/146933813-ba1f6453-0dde-4989-829b-a2a9d04fe704.jpg)
+
+
+![04](https://user-images.githubusercontent.com/78599887/146933815-eb4e4d01-5006-4284-ad19-6c8a9cfbe4da.jpg)
+
+
+![05](https://user-images.githubusercontent.com/78599887/146933858-bfd974f9-a324-4330-adb9-093a8bf54d10.jpg)
+
+
 
 ## Run it on your machine
 

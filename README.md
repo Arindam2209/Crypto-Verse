@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Cryptoverse</h1>
-    <p>Cryptoverse displays all information and news about cryptocurrencies and the market.</p>
+    <h1>Crypto-Verse</h1>
+    <p>Crypto-Verse provides all the information and news about cryptocurrencies and the crypto market.</p>
 </div>
 
 ![demo](./public/cryptoverse1.png)
@@ -10,13 +10,13 @@
 1. Clone the project
 
    ```sh
-   git clone https://github.com/aznamle/cryptoverse.git
+   git clone https://github.com/Arindam2209/Crypto-Verse.git
    ```
 
 1. Install the dependencies
 
    ```sh
-   cd cryptoverse
+   cd Crypto-Verse
    npm install
    ```
 
@@ -28,6 +28,12 @@
 
 <div align="center">
     <p>
-        Built with <a href="https://www.reactjs.org/" target="_blank">React.js</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>
+        Built with <a href="https://www.reactjs.org/" target="_blank">React.js</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
     </p>
 </div>
+
+## **Live Deployment** 📦 
+
+Click Here to view the deployment!
+ 
+[![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://arindam-crypto-verse.netlify.app/)
